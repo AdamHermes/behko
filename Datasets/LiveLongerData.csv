@@ -1,0 +1,18 @@
+Factor,Years gained / lost,strength of science?,strength of science as a number,sexes affected,effect
+Smoking,-10,strong,3,Both,negative
+Sitting Down,-3,suggestive,1,Both,negative
+Too much sleeping,-1.5,suggestive,1,Both,negative
+More Optimism,2,suggestive,1,Female,positive
+More Pets,3,good,2,Both,positive
+more professional responsibility,3.5,suggestive,1,Male,positive
+Healthy Eating,7,strong,3,Both,positive
+Red Meat,-1,good,2,Both,positive
+Alcohol (heavy abuse),-11,good,2,Both,positive
+City living,-2.5,suggestive,1,Both,positive
+Mental Illness,-25,strong,3,Both,positive
+Obesity,-8.5,strong,3,Both,negative
+More Health Checks #2,0.14,good,2,Both,positive
+Living at high altitude,2,strong,3,"Both, but esp. for men",positive
+Good marriage,10,good,2,Both,positive
+Less Food,11.67,suggestive,1,Both,positive
+More Meditation,12,suggestive,1,Both,positive
