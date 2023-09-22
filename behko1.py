@@ -1,8 +1,8 @@
 import pandas as pd
 from bokeh.plotting import output_file, figure,show
 from bokeh.models import ColumnDataSource
-output_file("../Python/Python Files/chart.html")
-data = pd.read_csv(r"/Datasets/LiveLongerData.csv")
+output_file("chart.html")
+data = pd.read_csv(r"D:\copy\Datasets\LiveLongerData.csv")
 #method read_csv có thể thay bằng các loại read khác tùy thuộc
 #vào định dạng file
 #data_source = ColumnDataSource(data)
